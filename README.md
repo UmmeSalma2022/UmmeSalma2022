@@ -14,10 +14,11 @@
   />
 </p>
 
-- 🔭 I’m currently working on **Deep Learning** - 🌱 I’m currently learning
-**Full Stack development** - 💬 Ask me about **C++, Java, AIML** - 📫 How to
-reach me **umme08394@gmail.com** - 📄 Know about my experiences
-[https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 🔭 I’m currently working on **Deep Learning** -
+- 🌱 I’m currently learning **Full Stack development**
+- 💬 Ask me about **C++, Java, AIML**-
+-  - 📫 How to reach me **umme08394@gmail.com** -
+- 📄 Know about my experiences[Resume](https://drive.google.com/drive/u/0/my-drive)
 - ⚡ Fun fact **I think I am genius in the entire world!**
 
 <h3 align="left">Connect with me:</h3>
